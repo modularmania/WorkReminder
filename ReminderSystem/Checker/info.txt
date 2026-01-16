@@ -1,0 +1,2 @@
+dm.png should be a screenshot of the discord user's username.
+update.png should be a screenshot of the discord channel you want the $working result to be placed in.
